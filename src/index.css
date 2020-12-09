@@ -297,7 +297,6 @@ img:-moz-loading {
     border-radius: 50%;
     margin-left: auto;
     margin-right: auto;
-    background-image: url("avatar.png");
     background-size: 100%;
     background-repeat: no-repeat;
     text-indent: -999em;
