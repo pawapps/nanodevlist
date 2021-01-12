@@ -1,0 +1,17 @@
+{
+  "name": "elliottminns",
+  "github": "elliottminns",
+  "twitter": "elliottminns",
+  "nano_account": "nano_18kp6foqowy5c7rcnhsh1c5jdwogqms15jxc4se9ykaa8cxhrrzxumgswips",
+  "sponsor_link": "",
+  "avatar": "https://avatars2.githubusercontent.com/u/3148319?s=460&u=dd6270d37e761c18ea46583dc825f5e212a0e4eb&v=4",
+  "description": "Creator of [Nanotify](https://nanotify.io), a notification based system for building on Nano.\n\rBuilding libraries, tools and Products in Go & Rust.\n\rContributor to the nano-node project.",
+  "tags": [
+    "Go",
+    "Nanotify",
+    "Rust",
+    "C++",
+    "Svelte",
+    "Flutter"
+  ]
+}
