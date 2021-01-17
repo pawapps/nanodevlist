@@ -1,0 +1,16 @@
+{
+  "name": "SomeNano",
+  "github": "SomeNano",
+  "twitter": "SomeNanoTweets",
+  "nano_account": "nano_1somenanerzdzdbyr4y6x996qbo764ifxk8beuhphydmwn1agpzkwquqqick",
+  "sponsor_link": "https://github.com/sponsors/pawapps",
+  "avatar": "http://somenano.com/images/somenano.png",
+  "description": "Building fun and useful apps in the Nano Ecosystem! My current portfolio of projects can be found at [SomeNano.com](https://somenano.com). Some highlights are my Nano Network visualizers [SomeNano Plinko](https://plinko.somenano.com) and [SomeNano Snow](https://snow.somenano.com). I also enjoy supporting community developers with [articles on Medium](https://somenano.medium.com) and dev tools like [Public Nodes](https://publicnodes.somenano.com).",
+  "tags": [
+    "Javascript",
+    "JS",
+    "OpenSource",
+    "Education",
+    "Tutorials"
+  ]
+}
